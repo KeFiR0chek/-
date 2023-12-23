@@ -9,12 +9,6 @@ h2 {
   font-size: 20px;
 }
 
-/* Стили для картинок */
-img {
-  max-width: 10%;
-  height: auto;
-}
-
 /* Стили для параграфов */
 p {
   color: #777;
